@@ -1,0 +1,1 @@
+python -m numpy.f2py -c -m pysse_module src/pysse.f src/evolv1.f src/mlwind.f src/star.f src/zcnsts.f src/deltat.f src/hrdiag.f src/kick.f src/mrenv.f src/ran3.f src/zfuncs.f
